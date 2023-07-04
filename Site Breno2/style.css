@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#chains{
+    width: 45%;
+}
+
+.manga1{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    padding: 25px;
+    font-size: small;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 25%;
+}
+
+.dee{
+    font-size: xx-large;
+}
+
+#capdemons{
+    width: 45%;
+}
+
+.manga2{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    padding: 25px;
+    font-size: large;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 25%;
+}
+
+.de{
+    font-size: xx-large;
+}
