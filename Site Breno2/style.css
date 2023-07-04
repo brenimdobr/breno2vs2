@@ -12,7 +12,7 @@
 }
 
 #chains{
-    width: 45%;
+    width: 60%;
 }
 
 .manga1{
@@ -30,7 +30,7 @@
 }
 
 #capdemons{
-    width: 45%;
+    width: 60%;
 }
 
 .manga2{
@@ -46,3 +46,37 @@
 .de{
     font-size: xx-large;
 }
+
+#solo{
+    width: 60%;
+}
+
+.manga3{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    padding: 25px;
+    font-size: large;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 25%;
+ }
+ .deeee{
+    font-size: xx-large;
+ }
+
+ #one{
+    width: 60%;
+}
+
+.manga4{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    padding: 25px;
+    font-size: large;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 25%;
+ }
+ .deee{
+    font-size: xx-large;
+ }
